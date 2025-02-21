@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chariz</h1>
 <h3 align="center">A passionate Senior Software QA Analyst</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/chariza/](https://www.linkedin.com/in/chariza/)
 
